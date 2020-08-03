@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.clickfunnels.com	TRUE	/	FALSE	1999999999	__cfduid	df225f38054804a448e6645474f1809e31580117317
+.clickfunnels.com	TRUE	/	FALSE	1999999999	__cf_bm	0da30bf86868a6c50ba1cb7598478bee387d9966-1580117317-1800-AYcz6sIhitRlnDXY4B259cqDjalCKgmar0i2HbIO+7eHzYMvKzJ1vUIhtSQiwgUI69lPrEAWIEHGAG8MqPZaUBY=
+app.clickfunnels.com	TRUE	/	FALSE	1999999999	SameSite	None
+.recurly.com	TRUE	/	FALSE	1999999999	__cfduid	d680f9887a75997f5caac66905c005e011580117433
+js.recurly.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.www.fbadsformula.co	TRUE	/	FALSE	1999999999	__cfduid	d51547a2ec7bcbd1b9615e9c81d1f478b1580117439
+.www.fbadsformula.co	TRUE	/	FALSE	1999999999	__cf_bm	06de6556fcb042b187f5e768418ba19f31459d77-1580117439-1800-Ac2ElHsaQ+H25clqBOp8M7OXByltXDOds87JwOnAlH23OfGWqskf3HX1OPmq8CliWY8LHRkzM5j9eqhwNvbc0pw=
+www.fbadsformula.co	TRUE	/	FALSE	1999999999	SameSite	None
+.cloudflareinsights.com	TRUE	/	FALSE	1999999999	__cfduid	d2f11a1e79267e862b3ce64140956a3dd1580117440
+static.cloudflareinsights.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
